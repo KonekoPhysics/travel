@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
 <span style="font-size: 70%;">
 
 ## しおり
@@ -67,3 +73,5 @@
 
 
 </span>
+</body>
+</html>
